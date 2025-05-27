@@ -1,0 +1,170 @@
+    1  /Volumes/Installer/Install.command ; exit;
+    2  /Volumes/Adobe\ Photoshop\ 2021\ v22.0/Extra/Install.app/Contents/MacOS/Install ; exit;
+    3  /Volumes/CorelDRAW\ 2020\ v22.1.0.517\ MUL/Open\ Gatekeeper\ friendly ; exit;
+    4  /Volumes/CorelDRAW\ 2020\ v22.1.0.517\ MUL/Open\ Gatekeeper\ friendly ; exit;
+    5  /Volumes/Adobe\ After\ Effects\ 2021\ v18.0/Extra/Install.app/Contents/MacOS/Install ; exit;
+    6  /Volumes/Adobe\ InDesign\ 2021\ v16.2.1/Extra/Install.app/Contents/MacOS/Install ; exit;
+    7  /Volumes/Adobe\ InDesign\ 2021\ v16.2.1/Extra/Install.app/Contents/MacOS/Install ; exit;
+    8  /Volumes/Adobe\ InDesign\ 2021\ v16.2.1/Extra/Install.app/Contents/MacOS/Install ; exit;
+    9  /Volumes/Adobe\ InDesign\ Server\ 2021\ v16.2.1/Extra/Install.app/Contents/MacOS/Install ; exit;
+   10  /Volumes/Adobe\ InDesign\ Server\ 2021\ v16.2.1/Extra/Install.app/Contents/MacOS/Install ; exit;
+   11  /Volumes/Adobe\ InDesign\ Server\ 2021\ v16.2.1/Extra/Install.app/Contents/MacOS/Install ; exit;
+   12  /Volumes/Parallels\ Desktop\ 16.5.0-49183\ -\ Toolbox\ 4.5.0-3860\ by\ TNT/Install.app/Contents/MacOS/Install ; exit;
+   13  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   14  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   15  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   16  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   17  `
+   18  /Users/malina_yagoda/Desktop/Uninstall\ Citrix\ Workspace.app/Contents/MacOS/Uninstall\ Citrix\ Workspace ; exit;
+   19  /Users/malina_yagoda/Desktop/Uninstall\ Citrix\ Workspace.app/Contents/MacOS/Uninstall\ Citrix\ Workspace ; exit;
+   20  /Users/malina_yagoda/Desktop/MacClean\ Installer.app/Contents/MacOS/MacClean\ Installer ; exit;
+   21  /Volumes/CorelDRAW\ Graphics\ Suite\ 2021\ -\ Corporate\ \ v23.5.0.506\ 1/Extra/CorelDRAW\ Cleaner\ by\ TNT ; exit;
+   22  /Users/malina_yagoda/Downloads/Figma.app/Contents/MacOS/DynamicUniversalApp ; exit;
+   23  /Users/malina_yagoda/Downloads/Figma.app/Contents/MacOS/Figma ; exit;
+   24  /Users/malina_yagoda/Downloads/Figma.app/Contents/MacOS/DynamicUniversalApp ; exit;
+   25  /Volumes/Adobe\ After\ Effects\ 2020\ v17.1.4/Extra/Install.app/Contents/MacOS/Install ; exit;
+   26  /Users/malina_yagoda/Downloads/Adobe\ InDesign\ 2022\ v17.1\ en_US\ \[jetfire\]/PublicLib.dylib ; exit;
+   27  /Users/malina_yagoda/Downloads/Adobe\ InDesign\ 2022\ v17.1\ ru_RU\ \[jetfire\]/PublicLib.dylib ; exit;
+   28  /Users/malina_yagoda/Downloads/Adobe\ InDesign\ 2022\ v17.1\ ru_RU\ \[jetfire\]/Install\ IDSN_17.1-ru_RU-macuniversal.app/Contents/MacOS/applet ; exit;
+   29  /Users/malina_yagoda/Downloads/Adobe\ InDesign\ 2022\ v17.1\ ru_RU\ \[jetfire\]/Install\ IDSN_17.1-ru_RU-macuniversal.app/Contents/MacOS/applet ; exit;
+   30  sudo xattr -r -c  /Users/malina_yagoda/Downloads/Adobe\ InDesign\ 2022\ v17.1\ ru_RU\ \[jetfire\]/Install\ IDSN_17.1-ru_RU-macuniversal.app/Contents/MacOS/applet 
+   31  /Users/malina_yagoda/Downloads/Adobe\ InDesign\ 2022\ v17.1\ ru_RU\ \[jetfire\]/Install\ IDSN_17.1-ru_RU-macuniversal.app/Contents/MacOS/applet ; exit;
+   32  /Users/malina_yagoda/Downloads/Adobe\ InDesign\ 2022\ v17.1\ ru_RU\ \[jetfire\]/Install\ IDSN_17.1-ru_RU-macuniversal.app/Contents/MacOS/applet ; exit;
+   33  sudo spctl --master-enable
+   34  /Users/malina_yagoda/Downloads/Adobe\ InDesign\ 2022\ v17.1\ ru_RU\ \[jetfire\]/PublicLib.dylib ; exit;
+   35  /Users/malina_yagoda/Downloads/Adobe\ InDesign\ 2022\ v17.1\ ru_RU\ \[jetfire\]/Install\ IDSN_17.1-ru_RU-macuniversal.app/Contents/MacOS/applet ; exit;
+   36  /Users/malina_yagoda/Downloads/Adobe\ InDesign\ 2022\ v17.1\ ru_RU\ \[jetfire\]/PublicLib.dylib ; exit;
+   37  /Volumes/Adobe\ InDesign\ 2021\ v16.4/Extra/Install.app/Contents/MacOS/Install ; exit;
+   38  /Volumes/Adobe\ InDesign\ 2020\ v15.1.3/Extra/Install.app/Contents/MacOS/Install ; exit;
+   39  /Volumes/Adobe\ After\ Effects\ 2021\ v18.4.1/Extra/rhash ; exit;
+   40  /Volumes/Adobe\ After\ Effects\ 2021\ v18.4.1/Extra/Install.app/Contents/MacOS/Install ; exit;
+   41  /Volumes/Adobe\ Illustrator\ 2021\ v25.4.1/Extra/Install.app/Contents/MacOS/Install ; exit;
+   42  /Volumes/Adobe\ Illustrator\ 2021\ v25.4.1/Extra/Install.app/Contents/MacOS/Install ; exit;
+   43  /Volumes/Photoshop\ 23.4.2\ U2B\ INSTALLER\ \[RiD\]/Install.app/Contents/MacOS/Install ; exit;
+   44  /Volumes/Photoshop\ 23.4.2\ U2B\ INSTALLER\ \[RiD\]/Install.app/Contents/MacOS/Install ; exit;
+   45  /Volumes/Adobe\ Photoshop\ 2021\ v22.5.1/Extra/Install.app/Contents/MacOS/Install ; exit;
+   46  /Volumes/Adobe\ Photoshop\ CC\ 2019\ v20.0.7/Extra/Install.app/Contents/MacOS/Install ; exit;
+   47  /Volumes/AdobePhotoshop19.1.6-mul/Install.app/Contents/MacOS/Install ; exit;
+   48  /Volumes/Adobe\ Photoshop\ 2021\ v22.5.1/Extra/Install.app/Contents/MacOS/Install ; exit;
+   49  /Applications/OBS.app/Contents/MacOS/OBS ; exit;
+   50  /Applications/OBS.app/Contents/MacOS/obs-ffmpeg-mux ; exit;
+   51  /Volumes/Aiseesoft\ Mac\ Video\ Converter\ Ultimate\ 10.5.10.18511/Open\ Gatekeeper\ friendly ; exit;
+   52  /Applications/Aiseesoft\ Mac\ Video\ Converter\ Ultimate.app/Contents/MacOS/CrashFileCommit ; exit;
+   53  /Volumes/Aiseesoft\ Mac\ Video\ Converter\ Ultimate\ 10.5.10.18511/Open\ Gatekeeper\ friendly ; exit;
+   54  /Volumes/Movavi\ Video\ Converter\ 22\ Premium\ 22.5.0/Open\ Gatekeeper\ friendly ; exit;
+   55  nxp pritter scr --write
+   56  nxp ptitter index.html --write
+   57  git
+   58  git --
+   59  ssh-keygen -C alina1lomonos@gmail.com
+   60  cat ~/.ssh/id_rsa.pub 
+   61  cat ~/.ssh/id_ed25519.pub
+   62  ssh ec2-user@linux.itcareerhub.de
+   63  ssh ec2-user@linux.itcareerhub.de
+   64  scp  ec2-user@linux.itcareerhub.de/opt/280225-wdm/alina_lomonos/test.txt tmp/Test-1.txt
+   65  scp  ec2-user@linux.itcareerhub.de/opt/280225-wdm/alina_lomonos/test.txt Linux/test-1.txt
+   66  pwt
+   67  pwd
+   68  ls -la
+   69  ls -la Desktop/
+   70  scp  ec2-user@linux.itcareerhub.de/opt/280225-wdm/alina_lomonos/test.txt Desctop/Linux/test-1.txt
+   71  scp  ec2-user@linux.itcareerhub.de/opt/280225-wdm/alina_lomonos/test.txt Desktop/Linux/test-1.txt
+   72  scp  ec2-user@linux.itcareerhub.de/opt/280225-wdm/alina_lomonos/test.txt Desktop/Linux/test-1.txt
+   73  scp  ec2-user@linux.itcareerhub.de/:opt/280225-wdm/alina_lomonos/test.txt Desktop/Linux/test-1.txt
+   74  scp  ec2-user@linux.itcareerhub.de:/opt/280225-wdm/alina_lomonos/test.txt Desktop/Linux/test-1.txt
+   75   ec2-user@linux.itcareerhub.de
+   76  ssh ec2-user@linux.itcareerhub.de
+   77  git -v
+   78  git -v
+   79  git config --global -l 
+   80  git config --global user.name "Alina_Lomonos" 
+   81  git config --global user.email "alina1lomonos@gmail.com"
+   82  git config --global -l
+   83  git remote -v
+   84  git remote add origin git@github.com:alina1lomonos/alina_git.git
+   85  sl -la
+   86  sl -al
+   87  ssh ec2-user@linux.itcareerhub.de
+   88  ssh ec2-user@linux.itcareerhub.de
+   89  ssh ec2-user@linux.itcareerhub.de
+   90  ssh ec2-user@linux.itcareerhub.de
+   91  git
+   92  cd /opt/280225-wdm/alina_lomonos
+   93  mkdir /opt/280225-wdm/alina_lomonos
+   94  mkdir tmp/280225-wdm/alina_lomonos
+   95  mkdir git_intro
+   96  cd git_intro
+   97  git init
+   98  git add .IMG_1931.JPG
+   99  git add .maltese.JPG
+  100  git add .maltese.jpg
+  101  ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBE6HhmbkFpgJgqm42z1o7br7Al0WeN8mLkIE7+wqQgj alina1lomonos@gmail.com
+  102  ssh ec2-user@linux.itcareerhub.de
+  103  ls -la
+  104  cd /git_intro
+  105  clone git@github.com:alina1lomonos/git_introo.git
+  106  ls -la
+  107  cp /Flowers-1/ >> /git_intro
+  108  touch /git_intro/File.txt
+  109  cd /git_intro
+  110  git init
+  111  git cline git@github.com:alina1lomonos/git_introo.git
+  112  git clone git@github.com:alina1lomonos/git_introo.git
+  113  ~/malina_yagoda/git_introo$ pwd
+  114  ~/malina_yagoda/git_introo pwd
+  115  ls -la
+  116  cp ~/Desktop/Flowers-1 ./git_introo
+  117  cd git_introo/
+  118  ls -la
+  119  > File.txt
+  120  git status
+  121  git add .
+  122  git commit -m "Add File.txt"
+  123  git log
+  124  git push
+  125  pwd
+  126  cp ~/Users/malina_yagoda/Desktop/Flowers-1.png
+  127  ls -la
+  128  cp ~/malina_yagoda/Desktop/Flowers-1.png
+  129  cp ~/malina_yagoda/Desktop/Flowers-1.png .
+  130  cp ~/Desktop/Flowers-1.png .
+  131  ls -la
+  132  git status
+  133  git add
+  134  git add .
+  135  git commit -m "Add Flowers"
+  136  git log
+  137  git push
+  138  vi ~/myfirstbashscript.sh
+  139  nano ~/myfirstbashscript.sh
+  140  vi ~/myfirstbashscript.sh
+  141  nano ~myfirstbashscript.sh
+  142  chmod +x ~/myfirstbashscript.sh
+  143  ~/myfirstbashscript.sh
+  144  ~/malina_yagoda/myfirstbashscript.sh
+  145  node -v
+  146  npm -v
+  147  git bash
+  148  node -v
+  149  node -v
+  150  bash
+  151  ssh ec2-user@linux.itcareerhub.de
+  152  git clone git@github.com:alina1lomonos/Homework-12.git
+  153  cd Homework-12
+  154  echo "*.tmp" > .gitignore
+  155  git add .gitignore
+  156  git commit -m "Добавлен файл .gitignore"
+  157  git push origin main
+  158  git checkout -b feature
+  159  echo "Добавлено содержание в README" >> README.md
+  160  echo "# Новые правила" >> .gitignore
+  161  git add README.md .gitignore
+  162  git commit -m "Внесены изменения в README.md и .gitignore"
+  163  git push -u origin feature
+  164  git commit --amend -m "Внесены изменения в README.md и .gitignore (ammend)"
+  165  git push --force
+  166  git checkout main
+  167  git megre feature
+  168  git megre feature
+  169  git push origin main
+  170  history > history.txt
